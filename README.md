@@ -28,7 +28,7 @@
 Absolutely, I can provide the sorted list in Markdown format. Here's how it would look:
 
 ### Programming Languages
-- C: `![c](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)`
+- C: ![c](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
 - C#: `![csharp](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)`
 - CSS3: `![css3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)`
 - JavaScript: `![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)`
