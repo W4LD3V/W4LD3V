@@ -82,9 +82,7 @@
 
 <h4>Mobile App Development:</h4>
 <p align="left">
-  <a
-
- href="https://developer.android.com" target="_blank" rel="noreferrer">
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
