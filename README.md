@@ -1,25 +1,26 @@
 ![heading](header.png)
 
 
-<p align="center">
+<p align="left">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=A509F7&random=false&width=435&lines=Coding;Tech;Automations;Web+Development;Software;No+Code;Low+code;AI;Cybersecurity;3D+Printing+%26+Modelling" alt="Typing SVG" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=w4ld33&label=Profile%20views&color=0e75b6&style=flat" alt="w4ld33" /> </p>
 
-- 🔭 I’m currently working on ['Moody Metrics' health oriented web application](https://github.com/W4LD33/moody_metrics)
+- 🔭 I’m currently working on: ['Moody Metrics' health oriented web application.](https://github.com/W4LD33/moody_metrics)
 
-- 🌱 I’m currently learning **machine learning, front-end frameworks**
+- 🌱 I’m currently learning: **machine learning, front-end frameworks.**
 
-- 👨‍💻 All of my projects are available at [valdemarasgirstautas.lt](valdemarasgirstautas.lt)
+- 👨‍💻 All of my projects are available at: [valdemarasgirstautas.lt](valdemarasgirstautas.lt)
 
-- 📫 How to reach me **girstautas.valdemaras@gmail.com**
+- 📫 How to reach me: **girstautas.valdemaras@gmail.com**
 
-- ⚡ Fun fact **I'm an ultratriathlete 🏊🚴🏃**
+- ⚡ Fun fact: **I'm an ultratriathlete 🏊🚴🏃.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/valdemaras-girstautas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valdemaras-girstautas" height="30" width="40" /></a>
 <a href="https://fb.com/girstautas.valdemaras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="girstautas.valdemaras" height="30" width="40" /></a>
 </p>
 
@@ -31,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=w4ld33&show_icons=true&locale=en" alt="w4ld33" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=w4ld33&" alt="w4ld33" /></p>
-
