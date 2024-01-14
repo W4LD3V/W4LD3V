@@ -3,7 +3,7 @@
 
 <p align="left">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=A509F7&random=false&width=435&lines=Coding.;Tech.;Automation.s;Web+Development.;Software.;No+Code.;Low+code.;A.I.;Cybersecurity.;3D+Printing+%26+Modelling." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=A509F7&random=false&width=435&lines=Coding.;Tech.;Automations.;Web+Development.;Software.;No+Code.;Low+code.;A.I.;Cybersecurity.;3D+Printing+%26+Modelling." alt="Typing SVG" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=w4ld33&label=Profile%20views&color=0e75b6&style=flat" alt="w4ld33" /> </p>
