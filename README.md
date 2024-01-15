@@ -2,7 +2,7 @@
 
 
 <p align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=250&color=6E5494&random=false&width=435&lines=Coding.;Tech.;Web+Development.;Software.;No+Code.;Low+Code.;Ethical+Hacking.;3D+Printing+%26+Modelling." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=500&color=9325C0&random=false&width=435&lines=Coding.;Tech.;Web+Development.;Software.;No+Code.;Low+Code.;Ethical+Hacking.;3D+Printing+%26+Modelling." alt="Typing SVG" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=w4ld33&label=Profile%20views&color=0e75b6&style=flat" alt="w4ld33" /> </p>
