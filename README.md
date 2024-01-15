@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=w4ld33&label=Profile%20views&color=0e75b6&style=flat" alt="w4ld33" /> </p>
 
-- 🔭 I’m currently working on: [health oriented web application - moody_metrics.](https://github.com/W4LD33/moody_metrics)
+- 🔭 I’m currently working on: [this project](https://github.com/W4LD33/moody_metrics)
 
 - 🌱 I’m currently learning: **front-end frameworks & machine learning.**
 
