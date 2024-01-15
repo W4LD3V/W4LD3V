@@ -17,11 +17,17 @@
 
 - ⚡ Fun fact: **I'm an ultratriathlete 🏊🚴🏃.**
 
+<br />
+<hr />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/valdemaras-girstautas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valdemaras-girstautas" height="30" width="40" /></a>
-<a href="https://fb.com/girstautas.valdemaras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="girstautas.valdemaras" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/valdemaras-girstautas" target="blank"><img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://fb.com/girstautas.valdemaras" target="blank"><img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
+
+<br />
+<hr />
 
 <h3 align="left">Languages and Tools:</h3>
 
