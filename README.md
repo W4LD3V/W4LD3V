@@ -17,7 +17,6 @@
 
 - ⚡ Fun fact: **I'm an ultratriathlete 🏊🚴🏃.**
 
-<br />
 <hr />
 
 <h3 align="left">Connect with me:</h3>
@@ -26,7 +25,6 @@
 <a href="https://fb.com/girstautas.valdemaras" target="blank"><img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-<br />
 <hr />
 
 <h3 align="left">Languages and Tools:</h3>
@@ -49,6 +47,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
 </p>
+
+<hr />
 
 <h4>Frontend Development:</h4>
 <p align="left">
@@ -84,6 +84,8 @@
   </a>
 </p>
 
+<hr />
+
 <h4>Backend Development:</h4>
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -96,6 +98,8 @@
     <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt="express" width="40" height="40"/>
   </a>
 </p>
+
+<hr />
 
 <h4>Mobile App Development:</h4>
 <p align="left">
@@ -112,6 +116,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
 </p>
+
+<hr />
 
 <h4>Database:</h4>
 <p align="left">
@@ -132,6 +138,8 @@
   </a>
 </p>
 
+<hr />
+
 <h4>Backend as a Service (BaaS):</h4>
 <p align="left">
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
@@ -142,12 +150,16 @@
   </a>
 </p>
 
+<hr />
+
 <h4>Framework:</h4>
 <p align="left">
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
   </a>
 </p>
+
+<hr />
 
 <h4>Software:</h4>
 <p align="left">
@@ -168,12 +180,16 @@
   </a>
 </p>
 
+<hr />
+
 <h4>Automation:</h4>
 <p align="left">
   <a href="https://zapier.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
   </a>
 </p>
+
+<hr />
 
 <h4>API's:</h4>
 <p align="left">
@@ -185,6 +201,8 @@
   </a>
 </p>
 
+<hr />
+
 <h4>Other:</h4>
 <p align="left">
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
@@ -192,7 +210,7 @@
   </a>
 </p>
 
-<br>
+<hr />
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=w4ld33&show_icons=true&locale=en&layout=compact" alt="w4ld33" /></p>
