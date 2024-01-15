@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=w4ld33&label=Profile%20views&color=0e75b6&style=flat" alt="w4ld33" /> </p>
 
-- 🔭 I’m currently working on: [this project](https://github.com/W4LD33/moody_metrics)
+- 🔭 I’m currently working on: [this project](https://github.com/W4LD33/moody_metrics).
 
 - 🌱 I’m currently learning: **front-end frameworks & machine learning.**
 
-- 👨‍💻 All of my projects are available [here:](valdemarasgirstautas.lt/programming)
+- 👨‍💻 All of my projects are available [here](valdemarasgirstautas.lt/programming).
 
-- 📫 Reach me [here:](mailto:girstautas.valdemaras@gmail.com).
+- 📫 Reach me [here.](mailto:girstautas.valdemaras@gmail.com).
 
 - ⚡ Fun fact: **I'm an ultratriathlete 🏊🚴🏃.**
 
