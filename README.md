@@ -104,6 +104,9 @@
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android" height="30"/>
   </a>
+  <a href="https://www.apple.com/ios" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="ios" height="30"/>
+  </a>
 </p>
 
 <hr />
@@ -167,8 +170,20 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma" height="30"/>
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="figma" height="30"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" height="30"/>
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="pycharm" height="30"/>
+  </a>
+  <a href="https://support.apple.com/downloads/macos" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macos" height="30"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" height="30"/>
   </a>
 </p>
 
@@ -186,6 +201,15 @@
 
 <hr />
 
+<h3>Automation:</h3>
+<p align="left">
+  <a href="https://www.home-assistant.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white" alt="home-assistant" height="30"/>
+  </a>
+</p>
+
+<hr />
+
 <h3>Other:</h3>
 <p align="left">
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
@@ -194,8 +218,23 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="expressjs" height="30"/>
   </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="postgresql" height="30"/>
+  <a href="https://www.jwt.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="jwt" height="30"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="jwt" height="30"/>
+  </a>
+  <a href="https://www.libreoffice.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white" alt="jwt" height="30"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="arduino" height="30"/>
+  </a>
+  <a href="https://trello.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="trello" height="30"/>
+  </a>
+  <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="notion" height="30"/>
   </a>
 </p>
 
