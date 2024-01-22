@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning: **front-end frameworks & machine learning.**
 
-- 👨‍💻 All of my projects are available [here](valdemarasgirstautas.lt/programming).
+- 👨‍💻 All of my projects are available [here](https://github.com/W4LD33?tab=repositories).
 
 - 📫 Reach me [here](mailto:girstautas.valdemaras@gmail.com).
 
