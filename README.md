@@ -83,6 +83,9 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" height="30"/>
   </a>
+  <a href="https://www.npmjs.com/package/nodemon" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="nodemon" height="30"/>
+  </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="expressjs" height="30"/>
   </a>
@@ -185,11 +188,23 @@
   <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" height="30"/>
   </a>
+  <a href="https://krita.org/en/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" alt="krita" height="30"/>
+  </a>
+  <a href="https://inkscape.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13" alt="inkscape" height="30"/>
+  </a>
+  <a href="https://www.gimp.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="gimp" height="30"/>
+  </a>
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="canva" height="30"/>
+  </a>
 </p>
 
 <hr />
 
-<h3>API's:</h3>
+<h3>Server:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" height="30"/>
@@ -235,6 +250,12 @@
   </a>
   <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="notion" height="30"/>
+  </a>
+  <a href="https://obsidian.md/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="obsidian" height="30"/>
+  </a>
+  <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="vim" height="30"/>
   </a>
 </p>
 
