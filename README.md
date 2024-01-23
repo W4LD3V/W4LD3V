@@ -1,5 +1,8 @@
 ![heading](header.png)
 
+Hello everyone! 🌟 I'm a health sciences grad who's transitioned into the world of Full-Stack Development. Passionate about the synergy of technology and well-being, my journey encompasses a mix of physical pursuits like marathons and triathlons, alongside a deep commitment to holistic practices like meditation and yoga. 💪🧘
+
+In the realm of tech, I explore AI, programming, 3D printing, and ethical hacking, always pushing boundaries to create meaningful innovations. 🔍🤖 Let's connect, code, and conquer goals together! 🚀💙 
 
 <p align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=500&color=9325C0&random=false&width=435&lines=Coding.;Tech.;Web+Development.;Software.;No+Code.;Low+Code.;Ethical+Hacking.;3D+Printing+%26+Modelling." alt="Typing SVG" /></a>
