@@ -267,12 +267,12 @@ In the realm of tech, I explore AI, programming, 3D printing, and ethical hackin
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
     <div style="width: 100%; border-radius: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=w4ld33&show_icons=true&locale=en&layout=compact" alt="w4ld33" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=w4ld3v&show_icons=true&locale=en&layout=compact" alt="w4ld3v" />
     </div>
     <div style="width: 100%; border-radius: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=w4ld33&show_icons=true&locale=en" alt="w4ld33" />
+        <img src="https://github-readme-stats.vercel.app/api?username=w4ld3v&show_icons=true&locale=en" alt="w4ld3v" />
     </div>
     <div style="width: 100%; border-radius: 5px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=w4ld33&" alt="w4ld33" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=w4ld3v&" alt="w4ld3v" />
     </div>
 </div>
