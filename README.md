@@ -1,4 +1,4 @@
-![heading](header.png)
+
 
 Hello everyone! 🌟 I'm a health sciences grad who's transitioned into the world of Full-Stack Development. Passionate about the synergy of technology and well-being, my journey encompasses a mix of physical pursuits like marathons and triathlons, alongside a deep commitment to holistic practices like meditation and yoga. 💪🧘
 
