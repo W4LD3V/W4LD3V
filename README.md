@@ -1,6 +1,8 @@
 
 
-Hello everyone! 🌟 I'm a health sciences grad who's transitioned into the world of Full-Stack Development. Passionate about the synergy of technology and well-being, my journey encompasses a mix of physical pursuits like marathons and triathlons, alongside a deep commitment to holistic practices like meditation and yoga. 💪🧘
+Hello everyone! 🌟 I'm a health sciences grad who's transitioned into the world of Full-Stack Development. I am passionate about the synergy of technology and well-being. 
+
+My journey encompasses a mix of physical pursuits like marathons and triathlons, alongside a deep commitment to holistic practices like meditation and yoga. 💪🧘
 
 In the realm of tech, I explore AI, programming, 3D printing, and ethical hacking, always pushing boundaries to create meaningful innovations. 🔍🤖 Let's connect, code, and conquer goals together! 🚀💙 
 
