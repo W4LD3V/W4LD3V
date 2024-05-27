@@ -16,7 +16,7 @@ In the realm of tech, I explore AI, programming, 3D printing, and ethical hackin
 
 - 🌱 I’m currently learning: **front-end frameworks & machine learning.**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/W4LD33?tab=repositories).
+- 👨‍💻 All of my projects are available [here](https://valdemaras.tech/).
 
 - 📫 Reach me [here](mailto:girstautas.valdemaras@gmail.com).
 
