@@ -22,6 +22,8 @@ In the realm of tech, I explore AI, programming, 3D printing, and ethical hackin
 
 - ⚡ Fun fact: **I'm an ultratriathlete 🏊🚴🏃.**
 
+<a href="https://www.codewars.com/users/W4LD3V" target="blank"><img height="30" src="https://www.codewars.com/users/W4LD3V/badges/small" /></a>
+
 <hr />
 
 <h3 align="left">Connect with me:</h3>
