@@ -81,6 +81,15 @@ In the realm of tech, I explore AI, programming, 3D printing, and ethical hackin
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux" height="30"/>
   </a>
+  <a href="https://vite.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" alt="vite" height="30"/>
+  </a>
+  <a href="https://vitest.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff" alt="vitest" height="30"/>
+  </a>
+  <a href="https://storybook.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff)" alt="storybook" height="30"/>
+  </a>
 </p>
 
 <hr />
@@ -95,6 +104,12 @@ In the realm of tech, I explore AI, programming, 3D printing, and ethical hackin
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="expressjs" height="30"/>
+  </a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" alt="prisma" height="30"/>
+  </a>
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)" alt="jest" height="30"/>
   </a>
 </p>
 
